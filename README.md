@@ -13,3 +13,4 @@ Live: https://gerges-faiz.vercel.app
 Every push to `main` deploys to production on Vercel automatically (project `gerges-faiz`).
 
 Local copy: `D:\Flutter_apps\gerges-faiz-site`.
+Pushes to any other branch get a preview deployment instead.
